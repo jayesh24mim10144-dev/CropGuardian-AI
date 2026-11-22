@@ -1,0 +1,2 @@
+timestamp,image_name,predicted_class,confidence,confidence_level,model_version
+2026-11-23T03:38:53,Screenshot 2026-11-23 033656.png,Corn_(maize)___Common_rust_,98.5,High,crop_disease_mobilenetv2_v1

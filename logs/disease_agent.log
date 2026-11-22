@@ -1,0 +1,20 @@
+2026-11-23 03:38:39,129 | INFO | disease_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Loading TensorFlow 2.21.0
+2026-11-23 03:38:39,131 | INFO | disease_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | CUDA available: False, GPU available: False
+2026-11-23 03:38:39,133 | INFO | disease_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Model Path: models/crop_disease_mobilenetv2.keras, SHA256: fd80a1e2b3890d28b228277037b9360091f581b910c00e8d1ce8ee4cdf227513
+2026-11-23 03:38:43,229 | INFO | disease_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Model loaded in 4093ms. Output classes: 38
+2026-11-23 03:38:43,251 | INFO | disease_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Input size: (224, 224)
+2026-11-23 03:38:44,241 | INFO | disease_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Loading TensorFlow 2.21.0
+2026-11-23 03:38:44,242 | INFO | disease_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | CUDA available: False, GPU available: False
+2026-11-23 03:38:44,243 | INFO | disease_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Model Path: models/crop_disease_mobilenetv2.keras, SHA256: fd80a1e2b3890d28b228277037b9360091f581b910c00e8d1ce8ee4cdf227513
+2026-11-23 03:38:47,317 | INFO | disease_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Model loaded in 3073ms. Output classes: 38
+2026-11-23 03:38:47,322 | INFO | disease_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Input size: (224, 224)
+2026-11-23 03:38:48,302 | INFO | disease_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Image preprocessing started for temp\uploads\20261123_033837_5258258d_Screenshot 2026-11-23 033656.png
+2026-11-23 03:38:48,315 | INFO | disease_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | TensorFlow inference started
+2026-11-23 03:38:53,653 | INFO | disease_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | TensorFlow inference ended in 5336ms
+2026-11-23 03:38:53,654 | INFO | disease_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Top 3 predictions: [{'class': 'Corn_(maize)___Common_rust_', 'confidence': 98.5}, {'class': 'Apple___Cedar_apple_rust', 'confidence': 0.95}, {'class': 'Grape___Black_rot', 'confidence': 0.35}]
+2026-11-23 03:38:53,655 | INFO | disease_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Returned JSON: {'disease': 'Corn_(maize)___Common_rust_', 'confidence': 98.5, 'confidence_level': 'High', 'top_predictions': [{'class': 'Corn_(maize)___Common_rust_', 'confidence': 98.5}, {'class': 'Apple___Cedar_apple_rust', 'confidence': 0.95}, {'class': 'Grape___Black_rot', 'confidence': 0.35}], 'timestamp': '2026-11-23T03:38:53', 'model_version': 'crop_disease_mobilenetv2_v1'}
+2026-11-23 04:01:56,057 | INFO | disease_agent | Session:- | Run:- | Corr:- | Loading TensorFlow 2.21.0
+2026-11-23 04:01:56,062 | INFO | disease_agent | Session:- | Run:- | Corr:- | CUDA available: False, GPU available: False
+2026-11-23 04:01:56,065 | INFO | disease_agent | Session:- | Run:- | Corr:- | Model Path: models/crop_disease_mobilenetv2.keras, SHA256: fd80a1e2b3890d28b228277037b9360091f581b910c00e8d1ce8ee4cdf227513
+2026-11-23 04:02:00,049 | INFO | disease_agent | Session:- | Run:- | Corr:- | Model loaded in 3983ms. Output classes: 38
+2026-11-23 04:02:00,056 | INFO | disease_agent | Session:- | Run:- | Corr:- | Input size: (224, 224)

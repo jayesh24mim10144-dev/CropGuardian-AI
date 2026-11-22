@@ -1,0 +1,2 @@
+2026-11-23 03:38:48,296 | INFO | adk_coordinator | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Pipeline execution started. Workflow: Google ADK Workflow. Location: Sehore, Madhya Pradesh, India
+2026-11-23 03:38:48,299 | WARNING | adk_coordinator | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | ADK Workflow unavailable (google-adk package unavailable). Executing mandatory fallback to Legacy Coordinator.

@@ -1,0 +1,8 @@
+{
+  "timestamp": "2026-11-23T03:38:37.770196",
+  "workflow_mode": "Google ADK Workflow",
+  "adk_enabled": true,
+  "gemini_model": "gemini-2.5-flash",
+  "weather_api_timeout": 10,
+  "weather_api_retries": 3
+}
