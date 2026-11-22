@@ -1,0 +1,4 @@
+2026-11-23 03:20:46,359 | INFO | severity_agent | Session:- | Run:- | Corr:- | Severity analysis for Tomato___Late_blight (Conf: 95.0%): High (Score: 3)
+2026-11-23 03:20:46,360 | INFO | severity_agent | Session:- | Run:- | Corr:- | Severity analysis for Tomato___Late_blight (Conf: 50.0%): Low (Score: 1)
+2026-11-23 03:20:46,361 | INFO | severity_agent | Session:- | Run:- | Corr:- | Severity analysis for Tomato___Late_blight (Conf: 80.0%): Medium (Score: 2)
+2026-11-23 03:38:57,383 | INFO | severity_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Severity analysis for Corn_(maize)___Common_rust_ (Conf: 98.5%): High (Score: 3)

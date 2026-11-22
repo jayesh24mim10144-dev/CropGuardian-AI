@@ -1,0 +1,13 @@
+2026-11-23 03:38:53,660 | INFO | weather_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Getting weather for location: Sehore, Madhya Pradesh, India, Lat: None, Lon: None
+2026-11-23 03:38:53,661 | INFO | weather_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Geocoder Attempt 1: Nominatim (India) | Query: 'Sehore, Madhya Pradesh, India'
+2026-11-23 03:38:55,737 | INFO | weather_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Geocoder: Nominatim
+Query: Sehore, Madhya Pradesh, India
+Resolved: Sehore, Madhya Pradesh, India
+Lat: 23.1150041
+Lon: 77.0665356
+Country: India
+Status: SUCCESS
+Resolution Time: 2.08s
+2026-11-23 03:38:55,744 | INFO | weather_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | API Request URL: https://api.open-meteo.com/v1/forecast | Params: {'latitude': 23.1150041, 'longitude': 77.0665356, 'current': 'temperature_2m,relative_humidity_2m,apparent_temperature,precipitation,rain,showers,weather_code,cloud_cover,pressure_msl,surface_pressure,wind_speed_10m,wind_direction_10m,wind_gusts_10m', 'timezone': 'auto'}
+2026-11-23 03:38:57,374 | INFO | weather_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | API Response Status: 200 | Latency: 1629ms
+2026-11-23 03:38:57,377 | INFO | weather_agent | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Weather data retrieved successfully for Sehore, Madhya Pradesh, India

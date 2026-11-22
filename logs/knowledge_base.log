@@ -1,0 +1,16 @@
+2026-11-23 03:34:18,485 | INFO | knowledge_base | Session:- | Run:- | Corr:- | Initializing KnowledgeBaseManager
+2026-11-23 03:34:19,140 | INFO | knowledge_base | Session:- | Run:- | Corr:- | KnowledgeBaseManager initialized in 655.15ms
+2026-11-23 03:35:20,351 | INFO | knowledge_base | Session:- | Run:- | Corr:- | Initializing KnowledgeBaseManager
+2026-11-23 03:35:20,362 | INFO | knowledge_base | Session:- | Run:- | Corr:- | KnowledgeBaseManager initialized in 9.42ms
+2026-11-23 03:38:44,094 | INFO | knowledge_base | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Initializing KnowledgeBaseManager
+2026-11-23 03:38:44,144 | INFO | knowledge_base | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | KnowledgeBaseManager initialized in 45.86ms
+2026-11-23 03:38:48,121 | INFO | knowledge_base | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Initializing KnowledgeBaseManager
+2026-11-23 03:38:48,178 | INFO | knowledge_base | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | KnowledgeBaseManager initialized in 54.33ms
+2026-11-23 03:38:48,180 | INFO | knowledge_base | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Initializing KnowledgeBaseManager
+2026-11-23 03:38:48,236 | INFO | knowledge_base | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | KnowledgeBaseManager initialized in 52.59ms
+2026-11-23 03:38:53,655 | INFO | knowledge_base | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | 
+Raw CNN Class: Corn_(maize)___Common_rust_
+Resolution: EXPLICIT_MAPPING
+Canonical KB Class: Corn___Common_Rust
+Lookup Result: SUCCESS
+Disease ID: CORN_002

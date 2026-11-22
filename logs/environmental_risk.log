@@ -1,0 +1,6 @@
+2026-11-23 03:20:52,217 | INFO | environmental_risk | Session:- | Run:- | Corr:- | Risk Assessment Complete: Overall=Low, Spread=0%, Fungal=Low, Bacterial=Low, Heat=Low
+2026-11-23 03:20:52,218 | INFO | environmental_risk | Session:- | Run:- | Corr:- | Risk Assessment Complete: Overall=Medium, Spread=65%, Fungal=Low, Bacterial=Low, Heat=High
+2026-11-23 03:20:52,218 | INFO | environmental_risk | Session:- | Run:- | Corr:- | Risk Assessment Complete: Overall=High, Spread=90%, Fungal=High, Bacterial=High, Heat=Medium
+2026-11-23 03:20:52,218 | INFO | environmental_risk | Session:- | Run:- | Corr:- | Risk Assessment Complete: Overall=High, Spread=100%, Fungal=Very High, Bacterial=High, Heat=Low
+2026-11-23 03:20:52,219 | INFO | environmental_risk | Session:- | Run:- | Corr:- | Weather service unavailable. Skipping risk assessment.
+2026-11-23 03:38:57,387 | INFO | environmental_risk | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | Risk Assessment Complete: Overall=High, Spread=80%, Fungal=High, Bacterial=Low, Heat=Low

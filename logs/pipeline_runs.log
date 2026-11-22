@@ -1,0 +1,22 @@
+2026-11-23 03:38:58,409 | INFO | legacy_pipeline_runs | Session:- | Run:5258258d-ebdd-491b-9b6b-0a37782964ed | Corr:ce1cbb84-4613-4723-beee-90d554f95c48 | 
+2026-11-23T03:38:48
+Pipeline Started
+|
+DiseaseDetectionAgent
+5352 ms
+|
+WeatherAgent
+3722 ms
+|
+SeverityAgent
+3 ms
+|
+EnvironmentalRiskAgent
+1 ms
+|
+AdvisoryAgent
+1021 ms
+|
+Pipeline Finished
+Total
+10107 ms

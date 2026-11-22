@@ -1,0 +1,14 @@
+[
+  {
+    "pipeline_run_id": "5258258d-ebdd-491b-9b6b-0a37782964ed",
+    "session_id": null,
+    "image": {
+      "original": "Screenshot 2026-11-23 033656.png",
+      "stored": "temp\\uploads\\20261123_033837_5258258d_Screenshot 2026-11-23 033656.png"
+    },
+    "workflow": "Google ADK Workflow",
+    "started": null,
+    "finished": "2026-11-23T03:38:58",
+    "status": null
+  }
+]
